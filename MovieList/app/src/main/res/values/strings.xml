@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="detail">Detail</string>
+    <string name="list">Profile</string>
+    <string name="username">Raven Wijaya</string>
+    <string name="email">ravenwijaya24@gmail.com</string>
+
+
+</resources>
